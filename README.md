@@ -1,4 +1,5 @@
-# Tableau & SQL Function Analysis Pipeline
+# Cancer-Prediction-
+## Tableau & SQL Function Analysis Pipeline
 
 This repository implements **10 categories of data analysis functions** (Mathematical, String, Date, Type Conversion, Aggregations, Logical/Conditional, Window/Table Calculations, User Session, Spatial, and Predictive Analytics) on the **Appendix Cancer Prediction Dataset** downloaded dynamically via `kagglehub`.
 
@@ -14,8 +15,8 @@ This repository implements **10 categories of data analysis functions** (Mathema
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Abhinav7864/dedv-Project-.git
-   cd dedv-Project-
+   git clone https://github.com/Abhinav7864/Cancer-Prediction-.git
+   cd Cancer-Prediction-
    ```
 
 2. Create a virtual environment and install dependencies:
